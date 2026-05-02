@@ -1,5 +1,5 @@
 # Project Architecture Overview
-
+##
 ## Executive Summary
 
 The project is a QR Code Generator prototype built with Python and FastAPI. It serves as an API backend to create shortened URLs (tokens) mapped to original long URLs, and dynamically generates QR codes pointing to those shortened URLs. When a user scans the QR code or clicks the short link, the system tracks the scan event and redirects the user to the original destination.
